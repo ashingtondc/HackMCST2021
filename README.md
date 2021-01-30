@@ -4,7 +4,7 @@ Image Recognition Workshop for Hack MCST 2021
 Instructions
 1. Create [Clarifai](https://www.clarifai.com/) account.
 1. Download this repository to your desktop.
-1. Create a new application. Name it whatever. Use the **General** preset.
+1. In Clarifai, create a new application. Name it whatever. Use the **General** preset.
 1. Click **Explorer** on the left sidebar.
 1. Click **Add Inputs** at the top right.
 1. Upload the images in the _training_ folder of the downloaded data.
